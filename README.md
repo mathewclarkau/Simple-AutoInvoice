@@ -1,1 +1,2 @@
 # Simple-AutoInvoice
+The purpose of this auto-invoicing application is to generate an invoice that could be transposed straight to PDF and emailed to the specific client the invoice created for.  To go further down the rabbit hole would be to have it in a searchable re-produceable form with the database pulling customers, and having an easily alterable $ per hour figure to make the script more versatile.
